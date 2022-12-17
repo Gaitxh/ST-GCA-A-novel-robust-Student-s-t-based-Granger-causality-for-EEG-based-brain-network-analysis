@@ -39,6 +39,7 @@ The method used is the same as file-2
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 and more details for construct the transform matrix or relevant parameters, could be reffered to
+
 [1] Gao X, Huang W, Liu Y, et al. A novel robust Student’s t-based Granger causality for EEG based brain network analysis[J]. Biomedical Signal Processing and Control, 2023, 80: 104321.
 [2] Seth A K. A MATLAB toolbox for Granger causal connectivity analysis[J]. Journal of neuroscience methods, 2010, 186(2): 262-273.
 
