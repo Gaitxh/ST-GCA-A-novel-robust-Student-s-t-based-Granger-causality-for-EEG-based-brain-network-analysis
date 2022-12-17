@@ -4,6 +4,7 @@ this is a open-access code for student's-based GCA based on the paper
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 and there is the instruction manual for these code, and a sample code is also provided， that is
 file-1:GauGau_Estimate
 file-1 is the sub-file of GauGau_granger_regress, and if you would like to use the file-1, please follow the following format
@@ -12,6 +13,7 @@ where U is the transform matrix, and Y is the k-th observation, beta is the retu
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 file-2:GauGau_granger_regress
 file-2 has the abality to calculate the granger causality network, and the usage could be followed
 ret = GauGau_granger_regress(X,NLAGS,1); 
@@ -23,20 +25,24 @@ The result returned which name is GC2 is the granger causality network, and PR i
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 file-3:GauStu_Estimate
 The method used is the same as file-1
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 file-4:GauStu_Granger_regress
 The method used is the same as file-2
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 and more details for construct the transform matrix or relevant parameters, could be reffered to
 [1] Gao X, Huang W, Liu Y, et al. A novel robust Student’s t-based Granger causality for EEG based brain network analysis[J]. Biomedical Signal Processing and Control, 2023, 80: 104321.
 [2] Seth A K. A MATLAB toolbox for Granger causal connectivity analysis[J]. Journal of neuroscience methods, 2010, 186(2): 262-273.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 please installing the matlab Toolbox mentioned in [2], and if you used the relevant code, please cite the literature [1].
