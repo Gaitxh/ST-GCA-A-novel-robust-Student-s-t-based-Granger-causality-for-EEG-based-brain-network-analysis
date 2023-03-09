@@ -1,4 +1,4 @@
-# ST-GCA
+# ST-GCA,A novel robust Student’s t-based Granger causality for EEG based brain network analysis
 this is a open-access code for student's-based GCA based on the paper
 "A novel robust Student’s t-based Granger causality for EEG based brain network analysis"
 
