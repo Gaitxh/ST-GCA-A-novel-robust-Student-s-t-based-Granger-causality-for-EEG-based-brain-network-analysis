@@ -47,3 +47,6 @@ and more details for construct the transform matrix or relevant parameters, coul
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 please installing the matlab Toolbox mentioned in [2], and if you used the relevant code, please cite the literature [1].
+
+
+ATTENTION!!! https://github.com/Gaitxh/GS-GCA-A-novel-robust-Student-s-t-based-Granger-causality-for-EEG-based-brain-network-analysis is hte new version code! we advised that you adopted the new one for application.
